@@ -1,0 +1,5 @@
+Device,Interface,IP_Address,Status,Protocol,Method,Interface_OK
+C8Kv1,GigabitEthernet1,196.21.5.211,up,up,NVRAM,YES
+C8Kv1,GigabitEthernet2,61.128.1.1,up,up,NVRAM,YES
+C8Kv1,GigabitEthernet3,172.16.1.1,up,up,NVRAM,YES
+C8Kv1,Loopback0,1.1.1.1,up,up,NVRAM,YES
