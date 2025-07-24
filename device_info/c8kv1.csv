@@ -1,5 +1,0 @@
-Interface,IP_Address,Interface_OK,Method,Status,Protocol
-GigabitEthernet1,196.21.5.211,YES,NVRAM,up,up
-GigabitEthernet2,61.128.1.1,YES,NVRAM,up,up
-GigabitEthernet3,172.16.1.1,YES,NVRAM,up,up
-Loopback0,1.1.1.1,YES,NVRAM,up,up
