@@ -1,5 +1,1 @@
-Device,Interface,Status,Protocol,IP_Address,Subnet_Mask,MAC_Address,MTU,Bandwidth,Duplex,Speed,Media_Type,In_Packets,Out_Packets,In_Octets,Out_Octets,In_Errors,Out_Errors,In_Rate,Out_Rate,Last_Input,Last_Output
-C8Kv2,GigabitEthernet1,up,up,196.21.5.212,/24,000c.2957.7d6d,1500,1000000,full,1000mbps,Virtual,1348869,2510,882636296,185413,0,0,57000,0,00:00:00,00:00:00
-C8Kv2,GigabitEthernet2,up,up,61.128.1.254,/24,000c.2957.7d77,1500,1000000,full,1000mbps,Virtual,2363,1175,263795,133676,0,0,0,0,00:00:07,00:00:00
-C8Kv2,GigabitEthernet3,up,up,192.168.1.1,/24,000c.2957.7d81,1500,1000000,full,1000mbps,Virtual,2385,1153,270741,126730,0,0,0,0,00:00:00,00:00:07
-C8Kv2,Loopback0,up,up,2.2.2.2,/24,N/A,1514,8000000,N/A,N/A,Loopback,0,0,0,0,0,0,0,0,never,never
+Interface,IP_Address,Status,Protocol,Method,Interface_OKnGigabitEthernet1,196.21.5.212,up,up,NVRAM,YESnGigabitEthernet2,61.128.1.254,up,up,NVRAM,YESnGigabitEthernet3,192.168.1.1,up,up,NVRAM,YESnLoopback0,2.2.2.2,up,up,NVRAM,YESn
