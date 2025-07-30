@@ -1,0 +1,5 @@
+Interface,Type,MAC Address,IPv4 Address,MTU,Bandwidth,Status
+GigabitEthernet1,vNIC,000c.2957.7d6d,196.21.5.212/24,1500,1000000,up
+GigabitEthernet2,vNIC,000c.2957.7d77,61.128.1.254/24,1500,1000000,up
+GigabitEthernet3,vNIC,000c.2957.7d81,192.168.1.1/24,1500,1000000,up
+Loopback0,Loopback,,2.2.2.2/24,1514,8000000,up
