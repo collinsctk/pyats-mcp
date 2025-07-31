@@ -1,0 +1,9 @@
+device_name,interface_name,interface_type,enabled,line_protocol,oper_status,ip_address,prefix_length,mac_address,mtu,bandwidth,duplex_mode,port_speed,media_type,encapsulation,in_packets,out_packets,in_octets,out_octets,in_errors,out_errors,in_rate,out_rate,in_rate_pkts,out_rate_pkts,last_input,last_output,description
+C8Kv1,GigabitEthernet1,vNIC,True,up,up,196.21.5.211,24,000c.2937.5fec,1500,1000000,full,1000mbps,Virtual,arpa,18556526,3117134,4903895946,665337560,0,0,118000,10000,61,5,00:00:00,00:00:00,
+C8Kv1,GigabitEthernet2,vNIC,True,up,up,61.128.1.1,24,000c.2937.5ff6,1500,1000000,full,1000mbps,Virtual,arpa,133059,66764,14893523,7605914,0,0,0,0,0,0,00:00:03,00:00:02,
+C8Kv1,GigabitEthernet3,vNIC,True,up,up,172.16.1.1,24,000c.2937.5f00,1500,1000000,full,1000mbps,Virtual,arpa,21607575,66085,5563782538,7269250,0,0,138000,0,71,0,00:00:00,00:00:03,
+C8Kv1,Loopback0,Loopback,True,up,up,1.1.1.1,24,,1514,8000000,,,,loopback,0,0,0,0,0,0,0,0,0,0,never,never,
+C8Kv2,GigabitEthernet1,vNIC,True,up,up,196.21.5.212,24,000c.2957.7d6d,1500,1000000,full,1000mbps,Virtual,arpa,21399784,275325,5552226337,19138957,0,0,144000,0,74,0,00:00:00,00:00:00,
+C8Kv2,GigabitEthernet2,vNIC,True,up,up,61.128.1.254,24,000c.2957.7d77,1500,1000000,full,1000mbps,Virtual,arpa,133065,66761,14890443,7609440,0,0,0,0,0,0,00:00:01,00:00:09,
+C8Kv2,GigabitEthernet3,vNIC,True,up,up,192.168.1.1,24,000c.2957.7d81,1500,1000000,full,1000mbps,Virtual,arpa,133732,66094,15229643,7270240,0,0,0,0,0,0,00:00:08,00:00:01,
+C8Kv2,Loopback0,Loopback,True,up,up,2.2.2.2,24,,1514,8000000,,,,loopback,0,0,0,0,0,0,0,0,0,0,never,never,
